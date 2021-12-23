@@ -1,18 +1,12 @@
 .form {
-    display: inline-block;
-    width:100%;  
-}
-
-.form > * {
-    margin-bottom: 20px;
-}
-
-.form > *:last-child {
-    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
 }
 
 .form > .input {
-    width:100%;
+    width: 100%;
     font-size: 17px;
     line-height: 1.5em;
     padding: 0.5em 0;
@@ -33,6 +27,6 @@
     outline: 1px solid var(--secondary-color);
 }
 
- .form > label {
+.form > label {
     display: none;
- }
+}
