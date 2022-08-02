@@ -24,6 +24,7 @@ Design: [Coming-soon](https://cdn.discordapp.com/attachments/850245533838868480/
 -   **_Progress bar animation_**
 -   **_Back to top_**
 -   **_Forms_**
+-   **_CSS flex_**
 
 ### Authors
 
