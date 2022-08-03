@@ -9,7 +9,7 @@ _32 group website project flex edition_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! **_Thank you for your cooperation!_**
 
-Site published at: https://agnekauk.github.io/6-coming-soon/
+Site published at: https://agnekauk.github.io/6-coming-soon-flex/
 
 Design: [Coming-soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
